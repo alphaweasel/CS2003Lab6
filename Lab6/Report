@@ -1,0 +1,9 @@
+	Overall, Umple vastly increases the simplicity of the program.  Whereas java code might have get and set methods
+for every variable in a class, Umple allows for the core components of the class to be displayed without the need for
+large amounts of text, as the methods are all generated later.  The simplicity of the UML allows for the basic concepts to be understood
+without most of the details, allowing for it to convey ideas to those with little to no programming ability.
+	While Umple's generated code contains much more code than my own classes, much of of the code contains unnecessary lines of code.
+The generated code, while made quickly with the press of a button, ultimately is not the perfect translation of the UML into code.  While
+Umple provides a great base from which the rest of the program can be created, Umple only can create basic, unfinished code.
+	In the future, Umple and UML will be extremely helpful during the beginning stages of my projects, as I will be able to better plan out
+my code.  With the correct basic structure, the rest of the code will be much easier to write and will be built with a sturdy foundation.

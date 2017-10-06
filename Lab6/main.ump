@@ -1,0 +1,42 @@
+class Customer
+{
+   
+   name;
+   address;
+  int accountNumber;
+  int phoneNumber;
+public void createNewAccount(){
+
+}
+
+}
+
+class Account
+{
+   int accountID;  
+  dateCreated;
+  int numberOfOrders;
+  
+  
+  int amountDue;
+private String createOrder(){
+    Order o = new Order();
+}
+  
+  
+1 -- * Order;
+  * -- 1 Customer;
+}
+
+class Order
+{
+   int orderNum;
+  processingDate;
+  ordered;
+  assignedTo;
+  int price;
+
+public void assignToEmployee(){
+
+}
+}
